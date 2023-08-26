@@ -1,6 +1,3 @@
-# Thanks to Charlie for this code
-# https://www.udemy.com/course/100-days-of-code/learn/#questions/19476080
-
 from bs4 import BeautifulSoup
 import requests
 
